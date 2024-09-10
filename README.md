@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 ## ✒️ Editor
 
 [![](https://skillicons.dev/icons?i=arduino,idea,unity,visualstudio,vscode)]()
+
+
+## 💮 Other
+
+[![](https://skillicons.dev/icons?i=express,discordjs)]()
