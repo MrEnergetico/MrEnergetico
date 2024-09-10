@@ -28,3 +28,13 @@ Here are some ideas to get you started:
 ## 🏓 Framework
 
 [![](https://skillicons.dev/icons?i=bootstrap,nextjs,react,vite,vue)]()
+
+
+## 🎲 Database
+
+[![](https://skillicons.dev/icons?i=mongodb,mysql)]()
+
+
+## ✒️ Editor
+
+[![](https://skillicons.dev/icons?i=arduino,idea,unity,visualstudio,vscode)]()
