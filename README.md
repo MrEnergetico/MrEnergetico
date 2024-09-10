@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 My Social
+## 🚀 Language
 
-[![](https://skillicons.dev/icons?i=discord,youtube,twitch)]()
+[![](https://skillicons.dev/icons?i=html,css,js,ts,java,php,py)]()
