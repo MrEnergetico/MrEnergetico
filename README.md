@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 ## 🚀 Language
 
 [![](https://skillicons.dev/icons?i=html,css,js,ts,java,php,py)]()
+
+
+## 📕 Learning
+
+[![](https://skillicons.dev/icons?i=c,cs,cpp,kotlin)]()
+
+
+## 🏓 Framework
+
+[![](https://skillicons.dev/icons?i=bootstrap,nextjs,react,vite,vue)]()
