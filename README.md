@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 🚀 My Social
 
-[https://skillicons.dev/icons?i=pug]
+https://skillicons.dev/icons?i=pug
