@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 
 ## 🚀 Language
 
-[![](https://skillicons.dev/icons?i=html,css,js,ts,java,php,py)]()
+[![](https://skillicons.dev/icons?i=html,css,js,ts,java,py)]()
 
 
 ## 📕 Learning
 
-[![](https://skillicons.dev/icons?i=c,cs,cpp,kotlin)]()
+[![](https://skillicons.dev/icons?i=c,cpp)]()
 
 
 ## 🏓 Framework
 
-[![](https://skillicons.dev/icons?i=bootstrap,nextjs,react,vite,vue)]()
+[![](https://skillicons.dev/icons?i=bootstrap,nextjs,react)]()
 
 
 ## 🎲 Database
 
-[![](https://skillicons.dev/icons?i=mongodb,mysql)]()
+[![](https://skillicons.dev/icons?i=mongodb)]()
 
 
 ## ✒️ Editor
 
-[![](https://skillicons.dev/icons?i=arduino,idea,unity,visualstudio,vscode)]()
+[![](https://skillicons.dev/icons?i=idea,vscode)]()
 
 
 ## 💮 Other
